@@ -28,15 +28,14 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |
 | David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
 | Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
 | Lee Koudela    | LeeKoudela     | https://leekoudela.github.io/Demo-Repo/  |
 | Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
-
+| Jack Benstead | jbenstead33 | <https://jbenstead33.github.io/repo-demo/> |
 <br>
 
 # Linking to other stuff 
